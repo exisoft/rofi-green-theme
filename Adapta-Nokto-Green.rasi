@@ -1,3 +1,7 @@
+*This is a hacked up version of the original Adapta-Nokto rofi theme. 
+*I was looking for a green on black, terminal style theme, but I didnt see one so I tweaked this to suit my needs.
+*Its absolutely an ugly file and most of the code is likely unnecessary to accomplish the same feat. ~\(^_^)/~
+
 /*******************************************************************************
  * ROFI Color theme
  * Based on Adapta-Nokto GTK theme (https://github.com/adapta-project/adapta-gtk-theme)
